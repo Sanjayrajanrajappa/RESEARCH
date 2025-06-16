@@ -40,3 +40,11 @@
 #### Zone A: 71.93%, B: 27.26%, C: 0.72%, D: 0.09%, E: 0.00%
 ### Clarke Grid for Ensemble:
 #### Zone A: 92.11%, B: 7.84%, C: 0.04%, D: 0.00%, E: 0.00%
+
+# RMSE & MAE
+
+## 15-min - RMSE: 10.73, MAE: 7.60
+## 30-min - RMSE: 10.68, MAE: 7.33
+## 60-min - RMSE: 16.15, MAE: 10.54
+## 120-min - RMSE: 26.89, MAE: 18.04
+## Ensemble - RMSE: 12.29, MAE: 8.03
